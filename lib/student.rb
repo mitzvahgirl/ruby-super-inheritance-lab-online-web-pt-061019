@@ -7,4 +7,4 @@ class Student
   def raise_hand
     puts "Pick me!"
   end
-end
+endhttps://www.learn.co/tracks/online-software-engineering-structured/object-oriented-ruby/object-architecture/super-lab#
